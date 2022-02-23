@@ -1,3 +1,5 @@
+### Forked this as a sign of respect to Timur Shemsedinov. I never studied in KPI but your lectures always give me motivation when I feel like burning out
+
 <code>🎓 Student: KPI / IM-11</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
